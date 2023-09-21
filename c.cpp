@@ -44,6 +44,7 @@ int main()
 	for(int i=0 ; i < 6 ; i++)
 	solve(f[i]) ;
     cout<<"linmingyao"<<endl;
+    cout<<"2021150216"<<endl;
 	return 0 ;
 }
 /*INSERTIONSORT(A):
